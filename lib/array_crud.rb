@@ -9,8 +9,8 @@ def create_an_array
   p radiohead
 end
 
-def add_element_to_end_of_array(radiohead,"colin")
-radiohead >> "colin"
+def add_element_to_end_of_array
+radiohead >> "colin"(radiohead,"colin")
 end
 
 def add_element_to_start_of_array(array, element)
