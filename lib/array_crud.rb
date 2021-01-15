@@ -1,5 +1,3 @@
- radiohead = ["thom","jonny","phil","ed"]
-
 def create_an_empty_array
   []
 end
